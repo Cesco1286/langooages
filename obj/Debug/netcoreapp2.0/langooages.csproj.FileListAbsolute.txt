@@ -1,0 +1,10 @@
+c:\Users\francesco\netWs\langooages\bin\Debug\netcoreapp2.0\langooages.deps.json
+c:\Users\francesco\netWs\langooages\bin\Debug\netcoreapp2.0\langooages.runtimeconfig.json
+c:\Users\francesco\netWs\langooages\bin\Debug\netcoreapp2.0\langooages.runtimeconfig.dev.json
+c:\Users\francesco\netWs\langooages\bin\Debug\netcoreapp2.0\langooages.dll
+c:\Users\francesco\netWs\langooages\bin\Debug\netcoreapp2.0\langooages.pdb
+c:\Users\francesco\netWs\langooages\obj\Debug\netcoreapp2.0\langooages.csproj.CoreCompileInputs.cache
+c:\Users\francesco\netWs\langooages\obj\Debug\netcoreapp2.0\langooages.AssemblyInfoInputs.cache
+c:\Users\francesco\netWs\langooages\obj\Debug\netcoreapp2.0\langooages.AssemblyInfo.cs
+c:\Users\francesco\netWs\langooages\obj\Debug\netcoreapp2.0\langooages.dll
+c:\Users\francesco\netWs\langooages\obj\Debug\netcoreapp2.0\langooages.pdb
