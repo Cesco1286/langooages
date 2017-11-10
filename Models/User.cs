@@ -4,5 +4,6 @@ namespace langooages.Models{
         public string Username{get;set;}
         public string Password{get;set;}
         public int Progress{get;set;}
+        public long SeenLast{get;set;}
     }
 }
